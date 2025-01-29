@@ -1,4 +1,4 @@
-# Style-Assembled
+# Style, assembled
 
 A style guide for AT&T style assembly code (mainly focused on x86_64, but there's really nothing
 archetecture specific in here, except for the examples obviously).
